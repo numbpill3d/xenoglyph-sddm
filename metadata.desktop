@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Xenoglyph
+Description=Alien-white cybertribal login: a living sigil with a blinking red eye, rings of Daedric script, a horned login card
+Author=splicer scorn (voidrane)
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=xenoglyph
+Theme-API=2.0
+QtVersion=6
